@@ -1,0 +1,81 @@
+.event{
+   
+    margin:10px;
+    text-align: center;
+}
+.square{
+    display:flex;
+    flex-direction:row;
+    height:175px;
+    width:175px;
+    background-color: white;
+    border:1px solid black;
+    margin:40px 20px 80px 100px;
+}
+.square .circle{
+    height:130px;
+    width:130px;
+    border-radius:50%;
+    border:1px solid black;
+    background-color: white;
+    margin:20px 30px 50px 15px;
+}
+
+
+
+.circle .image{
+    margin:50px 70px 30px 45px;
+}
+.images{
+    float:left;
+}
+
+
+
+.mytext1{
+    width:300px;
+}
+
+
+.mytext2{
+    width:300px;
+}
+
+.mytext3{
+    width:300px;
+    gap:10px;
+}
+.Name{
+    margin:40px 4px 10px 250px;
+}
+.mytext4{
+    width:300px;
+}
+
+.Email{
+    margin:15px 5px 10px 250px;
+}
+.Phone{
+    margin:15px 4px 10px 225px;
+}
+.Seats{
+    margin:15px 25px 10px 485px;
+    
+}
+.attendees{
+    margin:15px 5px 10px 160px;
+}
+.response{
+    display:flex;
+    margin:20px 20px 20px 650px;
+    flex-direction: row;
+    gap: 80px;
+    height:20px;
+}
+.update{
+    border:1px solid black;
+}
+.details{
+    border:1px solid black;
+    margin:30px 30px 30px 30px;
+}
